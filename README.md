@@ -1,3 +1,3 @@
 # exercicio_pcea
 
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+Com o avanço da tecnologia no meio digital, os conceitos que abrangem direitos autorais e licenciamento passaram a ser ressignificados para atender às novas demandas de proteção da propriedade intelectual. Assim, a crescente distribuição de softwares, conteúdos digitais e ideias exigiu a criação de mecanismos legais que assegurassem os direitos dos criadores, como também o uso legal por parte dos usuários. Assim, foi necessário estabelecer normas que regulassem as permissões de uso e distribuição, garantindo a proteção das obras, a propriedade individual e o cumprimento das leis (copyright), como o sistema de licença CREATIVE COMMONS, assunto presente no conteúdo fornecido pelo professor Marcos.
